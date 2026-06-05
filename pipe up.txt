@@ -1,0 +1,1 @@
+{"BlockSize":3,"FormatVersion":2,"Blocks":{"pipeAscend":[{"C":[0,0,0,0,0,1,0,1,0,-1,0,0]}],"pipeHorizontal":[{"C":[0,0,0,-1,0,0,0,1,0,0,0,-1]}]},"Origin":[-3509,27,-3536]}
